@@ -1,0 +1,55 @@
+{
+  "text": {
+    "login": {
+      "headline": "Login",
+      "subtitle": "Please enter your password.",
+      "submit": "Login",
+      "password": "Password",
+      "forgot_password": "Forgot password",
+      "role": {
+        "user": "User",
+        "admin": "Admin"
+      }
+    },
+    "contextual_dropdown": {
+      "profile": "Profile",
+      "expert_mode": "Expert Mode",
+      "switch_language": "Switch Language",
+      "logout": "Logout",
+      "langs": {
+        "de": "Deutsch",
+        "en": "English",
+        "pl": "Polski",
+        "it": "Italiano"
+      }
+    },
+    "search": {
+      "headline": "Results for '{{value}}'",
+      "subtitle": "Please contact the Gigaset Support Team if you need more help.",
+      "placeholder": "Search..."
+    },
+    "ringtones": {
+      "headline": "Ringtones",
+      "subtitle": "You can manage ringtones here."
+    },
+    "dashboard": {
+      "headline": "Dashboard",
+      "subtitle": "Configure your phone and add widgets to the dashboard.",
+      "card": {
+        "status_list": "Status List",
+        "phone_number": "Phone Number",
+        "call_list": "Call List",
+        "elements": "Elements",
+        "voicemails_&_diverts": "Voicemails & Diverts",
+        "germany": "Germany"
+      }
+    },
+    "home": {
+      "headline": "Fusion",
+      "subtitle": "Configure your phone and add widgets to the dashboard."
+    },
+    "search_terms": {
+      "ringtones": "Ringtones"
+    }
+  }
+}

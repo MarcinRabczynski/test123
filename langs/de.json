@@ -1,0 +1,45 @@
+{
+  "text": {
+    "login": {
+      "headline": "Anmeldung",
+      "subtitle": "Bitte geben Sie Ihr Passwort ein.",
+      "submit": "Einreichen",
+      "password": "Passwort",
+      "forgot_password": "Passwort vergessen"
+    },
+    "contextual_dropdown": {
+      "profile": "Profil",
+      "expert_mode": "Expertenmodus",
+      "switch_language": "Sprache wechseln",
+      "logout": "Ausloggen"
+    },
+    "search": {
+      "headline": "Ergebnisse für '{{value}}'",
+      "subtitle": "Bitte wenden Sie sich an das Gigaset-Support-Team, wenn Sie weitere Hilfe benötigen.",
+      "placeholder": "Suche..."
+    },
+    "ringtones": {
+      "headline": "Klingeltöne",
+      "subtitle": "Hier können Sie Klingeltöne verwalten."
+    },
+    "dashboard": {
+      "headline": "Instrumententafel",
+      "subtitle": "Konfigurieren Sie Ihr Telefon und fügen Sie dem Dashboard Widgets hinzu.",
+      "card": {
+        "status_list": "Statusliste",
+        "phone_number": "Telefonnummer",
+        "call_list": "Anrufliste",
+        "elements": "Elements",
+        "voicemails_&_diverts": "Voicemails & Diverts",
+        "germany": "Deutschland"
+      }
+    },
+    "home": {
+      "headline": "Fusion",
+      "subtitle": "Konfigurieren Sie Ihr Telefon und fügen Sie dem Dashboard Widgets hinzu."
+    },
+    "search_terms": {
+      "ringtones": "Klingeltöne"
+    }
+  }
+}
